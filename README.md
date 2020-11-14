@@ -24,7 +24,10 @@
 <p>This tool require PHP for webserver, SSH or serveo link. First run following command on your terminal</p>
 
 ```
-apt-get -y install php openssh git wget
+apt-get -y install php
+apt-get -y install openssh
+apt-get -y install git
+apt-get -y install wget
 ```
 
 ## Installing (Kali Linux/Termux):

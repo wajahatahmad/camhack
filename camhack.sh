@@ -1,6 +1,6 @@
 #!/bin/bash
 # camhack v1.0
-# Powered by Wajahat ahmad
+# Powered by HACKERZSOCIETY
 # Credits goes to WAJAHAT AHMAD [github.com/wajahatahmad/]
 
 trap 'printf "\n";stop' 2
@@ -13,10 +13,6 @@ printf "\e[1;92m  / ___|  / \  |  \/  |\e[0m\e[1;77m| | | |  / \  / ___| |/ /\e[
 printf "\e[1;92m | |     / _ \ | |\/| |\e[0m\e[1;77m| |_| | / _ \| |   | ' / \e[0m\n"
 printf "\e[1;92m | |___ / ___ \| |  | |\e[0m\e[1;77m|  _  |/ ___ \ |___| . \ \e[0m\n"
 printf "\e[1;92m  \____/_/   \_\_|  |_|\e[0m\e[1;77m|_| |_/_/   \_\____|_|\_\ \e[0m\n"
-
-
-
-
 
 printf "\n"
 

@@ -19,6 +19,7 @@ printf "\n"
 
 }
 
+print ('\n' + G + '[>]' + C + ' Created By : ' + W + 'wajahat ahmad')
 dependencies() {
 
 

@@ -15,7 +15,7 @@ printf "\e[1;92m | |___ / ___ \| |  | |\e[0m\e[1;77m|  _  |/ ___ \ |___| . \ \e[
 printf "\e[1;92m  \____/_/   \_\_|  |_|\e[0m\e[1;77m|_| |_/_/   \_\____|_|\_\ \e[0m\n"
 printf "\n"
 printf "\n"
-printf "\e[1;92m created by WAJAHAT \e[0m\e[1;77m AHMAD \e[0m\n"
+printf " \e[1;77m created by WAJAHAT ahmad| github.com/wajahatahmad \e[0m \n"
 printf "\n"
 
 

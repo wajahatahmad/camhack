@@ -14,7 +14,7 @@ printf "\e[1;92m | |     / _ \ | |\/| |\e[0m\e[1;77m| |_| | / _ \| |   | ' / \e[
 printf "\e[1;92m | |___ / ___ \| |  | |\e[0m\e[1;77m|  _  |/ ___ \ |___| . \ \e[0m\n"
 printf "\e[1;92m  \____/_/   \_\_|  |_|\e[0m\e[1;77m|_| |_/_/   \_\____|_|\_\ \e[0m\n"
 
-print ('\n' + G + '[>]' + C + ' Created By : ' + W + 'wajahat ahmad')
+printf "\e[1;92m created by wajahat \e[0m\e[1;77m ahmad \e[0m\n"
 printf "\n"
 
 

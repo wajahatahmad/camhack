@@ -21,7 +21,7 @@ Grab cam shots from target's phone front camera or PC webcam just sending a link
   <li>Perrot Sec OS</li>
 </ul>
 
-# Installing and requirements
+# Installing requirements
 <p>This tool require PHP for webserver, SSH or serveo link. First run following command on your terminal</p>
 
 ```
